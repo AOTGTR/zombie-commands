@@ -1,6 +1,6 @@
 # ซอมบี้ vs คนดู · คำสั่งเกม (Zombie vs Viewers commands)
 
-![Zombie vs Viewers](media/cover.jpg)
+<img src="cover.jpg" width="420" alt="ZOMBIE vs VIEWERS">
 
 **เปิดหน้าเว็บคำสั่ง: https://aotgtr.github.io/zombie-commands/**
 
@@ -11,6 +11,8 @@
 Every command with a short clip from the game. Click a picture to play the clip. The number after a command is explained under each one.
 
 ### Helpers (ของช่วย)
+
+> ของช่วยซอมบี้จะอัปเดตเพิ่มทีหลัง
 
 <table>
 <tr><td><a href="media/shoes.mp4"><img src="media/shoes.jpg" width="160" alt="รองเท้าเร็ว"></a></td><td><b>👟 รองเท้าเร็ว</b><br><code>shoes</code></td><td>วิ่งเร็วขึ้น 3 วิ<br><sub>เลข = จำนวน ครั้งละ 3 วิ</sub></td></tr>
